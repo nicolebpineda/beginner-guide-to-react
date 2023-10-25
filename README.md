@@ -1,2 +1,2 @@
-# beginner-guide-to-react
+# beginners-guide-to-react
 Kent C. Dodd's Beginner's Guide to React
